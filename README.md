@@ -12,12 +12,12 @@
 
 ### 🌐 Connect with Me
 <p align="center">
-  <!-- Add links if you want -->
-  <!-- Example:
-  <a href="https://linkedin.com/in/coder-nnc" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" />
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  -->
+  <a href="https://instagram.com/YOUR-INSTAGRAM-ID" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -26,9 +26,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,react,nodejs,express,mongodb,mysql,html,css,js,bootstrap,git,linux,bash,django" />
 </p>
-
----
-
 
 ---
 
