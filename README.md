@@ -37,9 +37,9 @@
 
 ---
 
-### 🚀 Top Languages
+### 🚀 Top Technologies
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+  <img src="https://skillicons.dev/icons?i=python,bash,react,nodejs,express" />
 </p>
 
 ---
