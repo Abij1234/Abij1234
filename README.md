@@ -14,7 +14,7 @@
 <p align="center">
   <!-- Add links if you want -->
   <!-- Example:
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+  <a href="https://linkedin.com/in/coder-nnc" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" />
   </a>
   -->
