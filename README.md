@@ -12,7 +12,7 @@
 
 ### 🌐 Connect with Me
 <p align="center">
-  <!-- Add links if you want -->
+  <!-- Add your social links here -->
   <!-- Example:
   <a href="https://linkedin.com/in/yourprofile" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" />
@@ -40,6 +40,13 @@
 ### 🚀 Top Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+### ⚡ Tech I Use Most
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,bash,react,nodejs,express" />
 </p>
 
 ---
